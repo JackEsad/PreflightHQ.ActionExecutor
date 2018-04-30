@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>PreflightHQ ActionExecutor</title>
+    <authors>Mustafa Bayramoglu</authors>
+    <owners>Mustafa Bayramoglu</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package helps you to execute PreflightHQ chrome extension exports.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Selenium UI Test</tags>
+  </metadata>
+</package>
