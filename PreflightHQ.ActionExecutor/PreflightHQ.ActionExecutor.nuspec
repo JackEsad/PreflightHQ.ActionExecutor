@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>$id$</id>
-    <version>$version$</version>
+    <version>1.0.0.1</version>
     <title>PreflightHQ ActionExecutor</title>
     <authors>Mustafa Bayramoglu</authors>
     <owners>Mustafa Bayramoglu</owners>
